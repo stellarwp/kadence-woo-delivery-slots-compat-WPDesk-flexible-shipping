@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name:     WooCommerce Delivery Slots by Iconic [Table Rate for WooCommerce by Flexible Shipping]
+ * Plugin Name:     WooCommerce Delivery Slots by Kadence [Table Rate for WooCommerce by Flexible Shipping]
  * Plugin URI:      https://iconicwp.com/products/woocommerce-delivery-slots/
- * Description:     Compatibility between WooCommerce Delivery Slots by Iconic and 'Table Rate for WooCommerce by Flexible Shipping' by WPDesk.
- * Author:          Iconic
- * Author URI:      https://iconicwp.com/
+ * Description:     Compatibility between WooCommerce Delivery Slots by Kadence and 'Table Rate for WooCommerce by Flexible Shipping' by WPDesk.
+ * Author:          Kadence
+ * Author URI:      https://www.kadencewp.com/
  * Text Domain:     iconic-woo-delivery-slots-compat-wpdesk-flexible-shipping
  * Domain Path:     /languages
  * Version:         0.1.0
